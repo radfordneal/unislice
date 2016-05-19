@@ -1,0 +1,5 @@
+Implements, with slight modifications and extensions, the algorithm described
+in Figures 3 and 5 of the following paper:
+
+  Neal, R. M (2003) "Slice sampling" (with discussion), Annals of Statistics,
+    vol. 31, no. 3, pp. 705-767.
